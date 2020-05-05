@@ -1,2 +1,0 @@
-# ChatPal-app
-EXECUTIVE SUMMARY
