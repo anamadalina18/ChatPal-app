@@ -119,20 +119,11 @@ III. Products and services
 Am creat ChatPal analizand problemele comunitatii noastre si gandindu-ne cum noi putem ajuta. 
 Intervențiile programului sunt structurate în cadrul a trei componente principale:
 
-1.	Let’s talk with friends (Să vorbim cu prietenii): When parents leave their home country for work, children can feel abandonment, 
-helplessness and vulnerability. To face them, children react accordingly to examples near them, those of adults who are in difficult 
-times. There are children who, as a result of their parents leaving, become quiet and they avoid social contact, but also there are some
-who become fearful and avoid new experiences. With this chat section, children can talk with those who have the same problems and freely
-discuss their feelings.
+1.	Let’s talk with friends (Să vorbim cu prietenii): În momentul plecării părinților la muncă în străinătate, copiii experimentează sentimente de abandon, neajutorare și vulnerabilitate. Pentru a face față acestor sentimente, copiii reacționează în funcție de exemplele avute în jurul lor, adică în funcție de reacțiile manifestate de persoanele adulte atunci când acestea au trecut la rândul lor prin perioade dificile. Astfel, sunt copii care, în urma plecării părinților, devin retrași și evită contactele sociale, dar si copii care devin temători și ocolesc experiențele noi.Prin aceasta sectiune de chat copiii ar putea interactiona cu alti copii care trec prin aceleasi probleme si ar putea discuta liber trairile lor.
 
-2.	We listen to you (Noi vă ascultăm): Counselling services where children can get advice. They can confront emotional and behavioral 
-disorders, but also ones that impact their development. For a child, it can become very difficult to manage by themselves some 
-problematic behaviors, that’s why a specialist is necessary.
+2.	We listen to you (Noi vă ascultăm): Servicii de consiliere prin care copiii pot cere sfaturi.Copilul se poate confrunta, în diferite etape ale dezvoltării sale, cu anumite probleme emoţionale si comportamentale, precum şi cu diferite tulburări care îi pot impiedica dezvoltarea. Pentru acesta poate deveni foarte dificil sa gestioneze de unul singur anumite comportamente problematice, de aceea ajutorul de specialitate devine  necesar. 
 
-3.	Spend time together (Săpetrecem timpul împreună-socializare prin artă): Children can socialize or spend time together, harmonized by
-music, dance, movies... Art opens their soul and heals their fears. For every child, psychotherapy and, especially, art therapy, would be
-that quiet place, a place of refuge, where their soul can rest. If a child lives in a spirit of acceptance and friendship, they learn to
-find love everywhere.
+3.	Spend time together (Săpetrecem timpul împreună-socializare prin artă): copiii pot socializa sau pot petrece timpul impreuna armonizati de muzica, dans, film... Arta le deschide sufletul si le vindeca temerile. Pentru fiecare copil, psihoterapia si, in special, terapia prin arta, ar fi acel loc linistit, vorba placuta si calda, un loc de refugiu, locul unde sufletul se poate odihni macar pentru o clipa. Dacă un copil trăiește într-un spirit de acceptare și prietenie, el învață să găsească iubirea pretutindeni.
 
 IV. Market Analysis
 
